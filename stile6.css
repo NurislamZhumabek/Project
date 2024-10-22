@@ -1,0 +1,22 @@
+.Loginn
+{ 
+    background:  rgba(255, 255, 255, 0.911);;
+    width: 500px;
+    margin: 50px;
+    padding: 30px;
+    border: 1px black solid;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}  
+.Loginn h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.Exit{
+    color: rgb(0, 0, 0);
+    margin-left: 40%;
+    text-decoration: none;
+}

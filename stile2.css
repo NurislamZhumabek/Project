@@ -1,0 +1,24 @@
+.cars{
+    width: 300px;
+    height: 200px;
+    border-radius: 40px;
+}
+
+body{
+    background: url(https://avatars.mds.yandex.net/i?id=b4fc083f4009e5c138b47ce9843617419bc48e87-9181231-images-thumbs&n=13);
+}
+
+.Text{
+    margin-left: 40%;
+    color: rgb(255, 255, 255);
+}
+
+.Tex{
+    color: white;
+}
+
+.Exit{
+    color: white;
+    margin-left: 40%;
+    text-decoration: none;
+}

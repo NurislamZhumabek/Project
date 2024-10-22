@@ -1,0 +1,74 @@
+/* style.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.motorcycle-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 50px auto;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.motorcycle-content {
+    flex: 1;
+    padding: 40px;
+    background: #222;
+    color: #ffffff;
+    min-width: 320px;
+}
+
+.motorcycle-content h1 {
+    font-size: 48px;
+    color: #f39c12;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.motorcycle-content h2 {
+    font-size: 32px;
+    color: #ecf0f1;
+    margin-bottom: 15px;
+}
+
+.motorcycle-content p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #bdc3c7;
+    margin-bottom: 20px;
+}
+
+.motorcycle-image {
+    flex: 1;
+    text-align: center;
+    background: #f39c12;
+    padding: 20px;
+    min-width: 320px;
+}
+
+.motorcycle-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.Exit{
+    color: rgb(0, 0, 0);
+    margin-left: 40%;
+    text-decoration: none ;
+}
+
+.mota{
+    width: 400px;
+    height: 230px;
+}
